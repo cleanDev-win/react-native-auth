@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808849209949",
+    "firebase_url": "https://salonapp-e80e0.firebaseio.com",
+    "project_id": "salonapp-e80e0",
+    "storage_bucket": "salonapp-e80e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808849209949:android:637a0346df6c8368",
+        "android_client_info": {
+          "package_name": "com.albumhair.moments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808849209949-97r5eutn3u3al6m75lsmrr35vi1qnn85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdajJ1S3P2yumtS3GJd6QLPLvQZv6yZ00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808849209949-97r5eutn3u3al6m75lsmrr35vi1qnn85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
